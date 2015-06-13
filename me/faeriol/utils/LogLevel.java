@@ -1,7 +1,8 @@
 package me.faeriol.utils;
 
 /**
- * Created by Max "Faeriol" Paradis
+ * Define log levels
+ * @author Maxime "Faeriol" Paradis
  */
 public enum LogLevel {
     DEBUG("Debug"),

@@ -6,7 +6,7 @@ import java.io.PrintStream;
 
 /**
  * Simple, easy to initialize, logger
- * Created by Maxime "Faeriol" Paradis
+ * @author Maxime "Faeriol" Paradis
  */
 public enum Logger {
     INSTANCE;
