@@ -3,12 +3,14 @@ package me.faeriol.utils;
 /**
  * Define log levels
  * @author Maxime "Faeriol" Paradis
+ * https://github.com/Faeriol/faeriol-java-logger
  */
 public enum LogLevel {
     DEBUG("Debug"),
     WARN("Warn"),
     ERROR("Error"),
-    CRIT("Critical");
+    CRIT("Critical"),
+    INFO("Info");
 
     private String levelString;
 
